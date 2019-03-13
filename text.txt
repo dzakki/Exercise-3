@@ -1,0 +1,8 @@
+1. Looping
+2. Manipulasi Dom
+3. 
+var ul = []
+var i = 0;
+for (i, i < ps.length, i++){
+    ps[i]
+}
